@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: f63c393a35267af419422cf4bbc0851e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "color cabello-ni\xF1a_0"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1756
+        width: 867
+        height: 1325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_1"
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2416
+        width: 855
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_2"
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1762
+        width: 866
+        height: 1319
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_3"
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 2416
+        width: 855
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_4"
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 1762
+        width: 866
+        height: 1319
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_5"
+      rect:
+        serializedVersion: 2
+        x: 4971
+        y: 2416
+        width: 861
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_6"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 286
+        width: 896
+        height: 1343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_7"
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 940
+        width: 861
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_8"
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 286
+        width: 890
+        height: 1343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_9"
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 940
+        width: 866
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_10"
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 286
+        width: 890
+        height: 1343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: "color cabello-ni\xF1a_11"
+      rect:
+        serializedVersion: 2
+        x: 4971
+        y: 940
+        width: 861
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

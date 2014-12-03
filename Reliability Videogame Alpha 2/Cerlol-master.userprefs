@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Utileria\Contadores.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MovimientodeObjetos.cs" Line="19" Column="29" />
+      <File FileName="Assets\Scripts\Utileria\Secuencias.cs" Line="20" Column="10" />
+      <File FileName="Assets\Scripts\Utileria\Contadores.cs" Line="103" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

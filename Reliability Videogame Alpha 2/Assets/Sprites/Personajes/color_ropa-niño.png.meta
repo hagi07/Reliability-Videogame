@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: 2ef8d849cb05f4e4c83bb49b5c079e2a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "color_ropa-ni\xF1o_19"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 1378
+        height: 2178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "color_ropa-ni\xF1o_20"
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 192
+        width: 1161
+        height: 2178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "color_ropa-ni\xF1o_21"
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 197
+        width: 1374
+        height: 2168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 172be4421041fb645a01a0766380a5d1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: expresiones_0
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 4088
+        width: 691
+        height: 401
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: expresiones_1
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 4088
+        width: 682
+        height: 401
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: expresiones_2
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2855
+        width: 696
+        height: 382
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: expresiones_3
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2861
+        width: 685
+        height: 376
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: expresiones_4
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1586
+        width: 682
+        height: 390
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: expresiones_5
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 1582
+        width: 693
+        height: 387
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: expresiones_6
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 266
+        width: 667
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: expresiones_7
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 274
+        width: 675
+        height: 387
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: dc45f319160306c469dbffbf04c34f4c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Palabras_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 712
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 680
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 620
+        width: 329
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 575
+        width: 198
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 533
+        width: 123
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 484
+        width: 216
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 437
+        width: 294
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 387
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 341
+        width: 209
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 294
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 247
+        width: 208
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 195
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Palabras_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 147
+        width: 311
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
